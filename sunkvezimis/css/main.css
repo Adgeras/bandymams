@@ -11,7 +11,7 @@ body{
     padding-top: 50%;
     background-color: aqua;
     margin-left: 25%;
-    margin-top: 15%;
+    margin-top: 5%;
     position: relative;
 }
 .ratas1{
@@ -65,7 +65,7 @@ body{
     width: 35%;
     height: 45%;
     border-radius: 10%;
-    background-color: gray;
+    background-color: aquamarine;
     position: absolute;
     top: 6%;
     left: 0%;
@@ -76,7 +76,7 @@ body{
     width: 44%;
     height: 45%;
     border-radius: 10%;
-    background-color: gray;
+    background-color: aquamarine;
     position: absolute;
     top: 6%;
     left: 46%;
@@ -100,4 +100,18 @@ body{
     position: absolute;
     top: 81%;
     left: 35%;
+}
+.krovinys{
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 20%;
+    background-color: red;
+    border-top-right-radius: 100% 200%;
+    border-top-left-radius: 100% 200%;
+    border-bottom: 0;
+    position: absolute;
+    top: 26%;
+    right: 4%;
+
 }
